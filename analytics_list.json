@@ -1,0 +1,25 @@
+
+ {
+      "quantAnalytics": [
+        {
+          "MsgSlack": "boolean"
+        },
+        {
+          "MsgDiscord": "boolean"
+        },
+        {
+          "NumSlack": "Number"
+        },
+        {
+          "NumDiscord": "Number"
+        }
+      ],
+      "qualAnalytics": [
+        {
+          "DataUltMsgSlack": "String"
+        },
+        {
+          "DataUltMsgDiscord": "String"
+        }
+      ]
+    }
